@@ -1,0 +1,11 @@
+{
+  "name": "find-your-hat",
+  "version": "1.0.0",
+  "description": "Find your Hat",
+  "main": "main.js",
+  "author": "Darrek",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.1.7"
+  }
+}
